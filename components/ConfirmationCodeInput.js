@@ -2,6 +2,7 @@ import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 import { View, TextInput, StyleSheet, Dimensions, ViewPropTypes } from 'react-native';
 import _ from 'lodash';
+// how are you?
 
 // if ViewPropTypes is not defined fall back to View.propType (to support RN < 0.44)
 const viewPropTypes = ViewPropTypes || View.propTypes;
